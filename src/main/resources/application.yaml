@@ -1,3 +1,11 @@
 spring:
   application:
     name: bidding-crawler
+
+nuri:
+  site-name: "NURI"
+  base-url: "https://nuri.g2b.go.kr"
+
+app:
+  crawl:
+    output-path: "/app/output/"
